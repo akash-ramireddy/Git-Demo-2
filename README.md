@@ -1,2 +1,2 @@
 # Local Project
-This project was created from local repository.
+This project was created from local repository
